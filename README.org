@@ -3,5 +3,6 @@
 ** 开发者
 - [[https://blog.csdn.net/grey_csdn/article/details/127172362][1480_人月神话阅读笔记_开篇]]
 - [[https://blog.csdn.net/grey_csdn/article/details/127179709][1481_人月神话阅读笔记_焦油坑]]
+- [[https://blog.csdn.net/grey_csdn/article/details/127193233][1482_人月神话阅读笔记_人月神话]]
 ** 结构师
 ** 项目经理
