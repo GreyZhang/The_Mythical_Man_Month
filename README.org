@@ -11,5 +11,6 @@
 - [[https://blog.csdn.net/grey_csdn/article/details/127253750][1487_人月神话读书笔记_巴比伦塔为什么会失败]]
 - [[https://blog.csdn.net/grey_csdn/article/details/127273745][1488_人月神话阅读笔记_胸有成竹]]
 - [[https://blog.csdn.net/grey_csdn/article/details/127289555][1489_人月神话阅读笔记_削足适履]]
+- [[https://blog.csdn.net/grey_csdn/article/details/127331694][1492_人月神话阅读笔记_提纲挈领]]
 ** 结构师
 ** 项目经理
