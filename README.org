@@ -14,5 +14,6 @@
 - [[https://blog.csdn.net/grey_csdn/article/details/127331694][1492_人月神话阅读笔记_提纲挈领]]
 - [[https://blog.csdn.net/grey_csdn/article/details/127346473][1493_人月神话阅读笔记_未雨绸缪]]
 - [[https://blog.csdn.net/grey_csdn/article/details/127373557][1494_人月神话阅读笔记_干将莫邪]]
+- [[https://blog.csdn.net/grey_csdn/article/details/127642027][1509_人月神话阅读笔记_整体与部分]]
 ** 结构师
 ** 项目经理
