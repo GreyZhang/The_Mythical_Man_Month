@@ -17,5 +17,6 @@
 - [[https://blog.csdn.net/grey_csdn/article/details/127642027][1509_人月神话阅读笔记_整体与部分]]
 - [[https://blog.csdn.net/grey_csdn/article/details/127645047][1510_人月神话阅读笔记_另外一面]]
 - [[https://blog.csdn.net/grey_csdn/article/details/127663359][1511_人月神话阅读笔记_没有银弹上篇]]
+- [[https://blog.csdn.net/grey_csdn/article/details/127696175][1512_人月神话阅读笔记_没有银弹下篇]]
 ** 结构师
 ** 项目经理
